@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Build-a-25-5-Clock/static/css/main.6e515dc5.css",
+    "main.js": "/Build-a-25-5-Clock/static/js/main.42ed571f.js",
+    "static/media/audio6.wav": "/Build-a-25-5-Clock/static/media/audio6.d7d49fd1ef78f8a8acee.wav",
+    "index.html": "/Build-a-25-5-Clock/index.html",
+    "main.6e515dc5.css.map": "/Build-a-25-5-Clock/static/css/main.6e515dc5.css.map",
+    "main.42ed571f.js.map": "/Build-a-25-5-Clock/static/js/main.42ed571f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e515dc5.css",
+    "static/js/main.42ed571f.js"
+  ]
+}
